@@ -5,4 +5,5 @@
 - 👨‍🎓 I am currently studying at CESI for an Analyst program diploma.
 - ☕ I'm addicted to coffee
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ppoupardin" />]
+<img src="https://github-readme-stats.vercel.app/api?username=ppoupardin" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&layout=compact" />
