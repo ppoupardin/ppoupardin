@@ -1,4 +1,4 @@
-<p style="text-align: center;">## (☞ﾟヮﾟ)☞ Hi there ☜(ﾟヮﾟ☜)</p>
+                                                                      ## (☞ﾟヮﾟ)☞ Hi there ☜(ﾟヮﾟ☜)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ppoupardin&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=cobalt" style='display: inline-block'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&count_private=true&show_icons=true&layout=compact&theme=cobalt" style='display: inline-block'/>
 
