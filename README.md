@@ -6,4 +6,4 @@
 - ☕ I'm addicted to coffee
 
 <img src="https://github-readme-stats.vercel.app/api?username=ppoupardin&theme=cobalt" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&layout=compact&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&show_icons=true&layout=compact&theme=cobalt" />
