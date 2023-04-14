@@ -10,7 +10,7 @@
 - ☕ I'm addicted to coffee
 
 # Skills
-[![My Linkedin]<img title="Javascript" src="https://skillicons.dev/icons?i=js"/>
+[!<img title="Javascript" src="https://skillicons.dev/icons?i=js"/>
 <img title="html" src="https://skillicons.dev/icons?i=html"/>
 <img title="css" src="https://skillicons.dev/icons?i=css"/>
 <img title="d3.js" src="https://skillicons.dev/icons?i=d3"/>
