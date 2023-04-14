@@ -10,6 +10,7 @@
 - ☕ I'm addicted to coffee
 
 # Skills
+[![My Skills]
 <img title="Javascript" src="https://skillicons.dev/icons?i=js"/>
 <img title="html" src="https://skillicons.dev/icons?i=html"/>
 <img title="css" src="https://skillicons.dev/icons?i=css"/>
@@ -31,8 +32,7 @@
 <img title="React JS" src="https://skillicons.dev/icons?i=react"/>
 <img title="sass" src="https://skillicons.dev/icons?i=sass"/>
 <img title="tailwindcss" src="https://skillicons.dev/icons?i=tailwind"/>
-<img title="vsCode" src="https://skillicons.dev/icons?i=vscode"/>
-
+<img title="vsCode" src="https://skillicons.dev/icons?i=vscode"/>]
 # Réseaux
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/)
 [![My Github](https://skillicons.dev/icons?i=github)](https://github.com/ppoupardin)
