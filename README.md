@@ -2,7 +2,8 @@
 <center> <h1> (☞ﾟヮﾟ)☞         Hi there         ☜(ﾟヮﾟ☜)</h1> </center>
 
 
-<img src="https://github-stats-alpha.vercel.app/api?username=ppoupardin&cc=000&tc=fff&bc=000"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&count_private=true&show_icons=true&layout=compact&theme=react&hide_progress=true"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=ppoupardin&cc=000&tc=fff&bc=000"/> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ppoupardin&theme=react&hide_border=true&border_radius=50&locale=fr&ring=EBC92D)](https://git.io/streak-stats)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&count_private=true&show_icons=true&layout=compact&theme=react&hide_progress=true"/>
 
 
 - 🔭 I’m currently working on Laravel/javascript/sql/php/..
