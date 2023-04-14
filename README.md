@@ -11,6 +11,7 @@
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,d3,electron,firebase,git,graphql,idea,jquery,laravel,linux,mysql,netlify,nextjs,nginx,php,postman,react,sass,tailwind,vscode)](https://github.com/ppoupardin)
+<img title="Mes skills" src="https://skillicons.dev/icons?i=js,html,css,d3,electron,firebase,git,graphql,idea,jquery,laravel,linux,mysql,netlify,nextjs,nginx,php,postman,react,sass,tailwind,vscode"/>
 
 # Réseaux
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/)
