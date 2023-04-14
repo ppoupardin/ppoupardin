@@ -10,7 +10,6 @@
 - ☕ I'm addicted to coffee
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,d3,electron,firebase,git,graphql,idea,jquery,laravel,linux,mysql,netlify,nextjs,nginx,php,postman,react,sass,tailwind,vscode)](https://github.com/ppoupardin)
 <img title="Javascript" src="https://skillicons.dev/icons?i=js"/>
 <img title="html" src="https://skillicons.dev/icons?i=html"/>
 <img title="css" src="https://skillicons.dev/icons?i=css"/>
@@ -18,6 +17,21 @@
 <img title="Electron" src="https://skillicons.dev/icons?i=electron"/>
 <img title="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
 <img title="Git" src="https://skillicons.dev/icons?i=git"/>
+<img title="GraphQL" src="https://skillicons.dev/icons?i=graphql"/>
+<img title="IntelliJ / PhpStorm" src="https://skillicons.dev/icons?i=idea"/>
+<img title="jQuery" src="https://skillicons.dev/icons?i=jquery"/>
+<img title="Laravel" src="https://skillicons.dev/icons?i=laravel"/>
+<img title="Linux" src="https://skillicons.dev/icons?i=linux"/>
+<img title="MySql" src="https://skillicons.dev/icons?i=mysql"/>
+<img title="Netlify" src="https://skillicons.dev/icons?i=netlify"/>
+<img title="nextJS" src="https://skillicons.dev/icons?i=nextjs"/>
+<img title="nGinx" src="https://skillicons.dev/icons?i=nginx"/>
+<img title="php" src="https://skillicons.dev/icons?i=php"/>
+<img title="Postman" src="https://skillicons.dev/icons?i=postman"/>
+<img title="React JS" src="https://skillicons.dev/icons?i=react"/>
+<img title="sass" src="https://skillicons.dev/icons?i=sass"/>
+<img title="tailwindcss" src="https://skillicons.dev/icons?i=tailwind"/>
+<img title="vsCode" src="https://skillicons.dev/icons?i=vscode"/>
 
 # Réseaux
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/)
