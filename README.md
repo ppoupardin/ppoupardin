@@ -15,3 +15,4 @@
 # Réseaux
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/)
 [![My Github](https://skillicons.dev/icons?i=github)](https://github.com/ppoupardin)
+[![My Twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/ppoupardin](https://twitter.com/PepPeeuh))
