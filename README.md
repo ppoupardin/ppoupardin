@@ -1,7 +1,7 @@
 
 <center> <h1> (☞ﾟヮﾟ)☞         Hi there         ☜(ﾟヮﾟ☜)</h1> </center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ppoupardin&theme=react&hide_border=false&border_radius=5&locale=fr&ring=EBC92D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ppoupardin&theme=react&hide_border=false&border_radius=5&locale=fr&ring=EBC92D&mode=daily)]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&count_private=true&show_icons=true&layout=compact&theme=react&hide_progress=true"/>
 
 
