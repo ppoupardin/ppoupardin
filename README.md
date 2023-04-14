@@ -10,7 +10,7 @@
 - ☕ I'm addicted to coffee
 
 # Skills
-[![My Skills]
+[
 <img title="Javascript" src="https://skillicons.dev/icons?i=js"/>
 <img title="html" src="https://skillicons.dev/icons?i=html"/>
 <img title="css" src="https://skillicons.dev/icons?i=css"/>
