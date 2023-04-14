@@ -11,4 +11,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,d3,electron,firebase,git,github,graphql,idea,jquery,laravel,linux,mysql,netlify,nextjs,nginx,php,postman,react,sass,tailwind,vscode)](https://github.com/ppoupardin)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://github.com/ppoupardin](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/)) Linkedin
+# Réseaux
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://github.com/ppoupardin](https://www.linkedin.com/in/pierre-emmanuel-poupardin-603b07137/))
