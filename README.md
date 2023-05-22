@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoupardin&count_private=true&show_icons=true&layout=compact&theme=react&hide_progress=true"/>
 
 
-- 🔭 I’m currently working on Laravel/javascript/sql/php/...
+- 🔭 I’m currently working on Laravel/ReactJS/sql/php/...
 - 🌱 I’m currently learning Node.js and NextJS
 - ☕ I'm addicted to coffee
 
